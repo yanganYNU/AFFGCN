@@ -1,4 +1,4 @@
-# AFFGCN # 交通流量预测
+# AFFGCN  交通流量预测
 Attention Feature Fusion base on spatial-temporal Graph Convolutional Network
 ![图片1](https://user-images.githubusercontent.com/49970610/230247050-ed36f004-e208-4888-9443-48b32ac3117b.jpg)
 
