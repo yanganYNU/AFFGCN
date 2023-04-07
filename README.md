@@ -32,7 +32,7 @@ Step 2: Process dataset
 
 # 天气数据集
 
-![21](B:\1 云南大学\4 论文图片\英文\21.jpg)
+![weather dataset](https://raw.githubusercontent.com/yanganYNU/AFFGCN/main/paper/images/21.jpg)
 
 |     区域     |    时间区间     | onehot 特征 | 数值特征 |
 | :----------: | :-------------: | :---------: | :------: |
