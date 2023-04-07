@@ -83,7 +83,7 @@ weather为天气数据的预处理，主要包括天气数据的原始数据文�
 
 # 交通模块
 
-<img src="https://raw.githubusercontent.com/yanganYNU/AFFGCN/main/paper/images/%E4%BA%A4%E9%80%9A%E6%A8%A1%E5%9D%97.jpg" width="400" height="600" alt="交通模块" />
+<img src="https://raw.githubusercontent.com/yanganYNU/AFFGCN/main/paper/images/%E4%BA%A4%E9%80%9A%E6%A8%A1%E5%9D%97.jpg" width="500" height="600" alt="交通模块" />
 
 # 天气模块
 
