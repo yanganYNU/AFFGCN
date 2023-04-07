@@ -23,7 +23,7 @@ Step 2: Process dataset
 
 # 交通数据集
 
-![111](C:\Users\Administrator\Desktop\111.jpg)
+![traffic dataset](https://raw.githubusercontent.com/yanganYNU/AFFGCN/main/paper/images/111.jpg)
 
 |  区域   |    时间区间     |    检测器    |      数值特征      |
 | :-----: | :-------------: | :----------: | :----------------: |
