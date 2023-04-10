@@ -1,7 +1,5 @@
 # AFFGCN架构  交通流量预测
 Attention Feature Fusion base on spatial-temporal Graph Convolutional Network（AFFGCN）
-https://github.com/guoshnBJTU/ASTGCN-r-pytorch
-https://github.com/wanhuaiyu/ASTGCN
 ![模型总体架构](https://raw.githubusercontent.com/yanganYNU/AFFGCN/main/paper/images/%E6%A8%A1%E5%9E%8B%E6%80%BB%E4%BD%93%E6%9E%B6%E6%9E%84.jpg)
 
 # Reference
