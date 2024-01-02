@@ -76,9 +76,9 @@ Weather  Dataset  One-hot  data:
 
 # 5、Training
 
-- model_name: ASTGCN
+- model_name: AFFGCN
 - ctx: set ctx = cpu, or set gpu-0, which means the first gpu device
-- optimizer: sgd, RMSprop, adam, see [this page](https://mxnet.incubator.apache.org/api/python/optimization/optimization.html#the-mxnet-optimizer-package) for more optimizer
+- optimizer: sgd, RMSprop, adam,
 - learning_rate: float, like 0.0001
 - epochs: int, epochs to train
 - batch_size: int
